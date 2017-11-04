@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:tag="cards main container"
+    android:layout_margin="5dp">
+<!--
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="match_parent"
+            android:layout_height="150dip"
+            android:src="@drawable/robotics"
+            android:scaleType="fitXY"
+            android:layout_gravity="top"/>
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:textSize="18sp"
+            android:text="Djigsaw's Puzzle"
+            android:textAlignment="center"
+            android:background="#3D3D3D"
+            android:textColor="#fff"
+            android:layout_gravity="bottom"
+            />
+-->
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:textSize="18sp"
+            android:gravity="center"
+            android:text="Djigsaw's Puzzle"
+            android:textAlignment="center"
+            android:background="#3D3D3D"
+            android:textColor="#fff"
+            android:layout_gravity="bottom"
+            />
+</LinearLayout>

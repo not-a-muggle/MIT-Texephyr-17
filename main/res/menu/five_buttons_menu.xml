@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_event"
+        android:icon="@drawable/ic_event_black_24dp"
+        android:title="Events" />
+
+    <item
+        android:id="@+id/tab_workshop"
+        android:icon="@drawable/ic_build_black_24dp"
+        android:title="Workshop" />
+
+    <item
+        android:id="@+id/tab_about"
+        android:icon="@drawable/ic_help_black_24dp"
+        android:title="About Us" />
+
+    <item
+        android:id="@+id/tab_sponsor"
+        android:icon="@drawable/ic_attach_money_black_24dp"
+        android:title="Sponsors" />
+
+    <item
+        android:id="@+id/tab_more"
+        android:icon="@drawable/ic_more_vert_black_24dp"
+        android:title="More" />
+
+</menu>

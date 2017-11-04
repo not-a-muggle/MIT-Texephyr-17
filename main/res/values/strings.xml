@@ -1,0 +1,365 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">Texephyr</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- Strings related to About US -->
+    <string name="about_string">2014 was a breakthrough with the launch of TEXEPHYR-technical festival organized by the students of Maharashtra institute of technology, Pune with the aim to celebrate technology and innovation. \n\nTexephyr is an amalgamation of two words-Technology and Zephyr. It signifies the change brought upon by innovative minds. Texephyr’14 was based on ‘CONQUERING HORIZONS’ which signified the method by which today’s technology is advancing and it represented imagination and willpower to reach the unreached.\n\nTexephyr’15 supported the theme ‘SWACHH BHARAT TECHNOLOGY ’, which signified the departure of something that is prevalent and pursuing the unaccomplished with the help of cutting-edge technology and innovation.\n\nTexephyr’16 promoted the age of digitization and ensured creation of digital infrastructure for delivering services digitally and increased digital literacy.\n\nIn today’s world, everyone is surrounded by smartphone and smart gadgets.Taking cue from the same, Texephyr’17 is committed to smart city-a new and bold initiative by government of India to drive economic growth by harnessing technology that leads to smart outcomes. Embarking upon the idea, team has many ideas to implement the same notation. Our Prime Minister NARENDRA MODI is the greatest influence behind the smart city initiative.\n\nThe festival consist of a plentitude of technical ,non-technical ,managerial and entertainment based events that challenge the imagination ,wit and creativity of the students. Apart from this, the team understands its responsibility towards the society.In 2016 supported by two NGOs, make a difference and Bookwallah, Texephyr celebrated joy of giving ,a week long social cause campaign.\n\nThe basic idea was to assuage the plight of underprivileged kids in our society .More than 100 kgs of material was distributed among kids at S.O.S, Yerwada. Texephyr also supported Tahann, an initiative with the mission to quench the thirst of thousands of people in Baramati, by providing water tankers during the drought period in May, 2016.\n\nThe current year comes again as an opportunity for the team Texephyr to prove its mettle and scale greater heights in technical as well as social domain.\n\n</string>
+
+
+
+    <!-- Strings related to MORE's list view -->
+    <string-array name="moreTabs">
+        <item>Volunteer Login</item>
+        <item>Campus Map</item>
+        <item>Official Website</item>
+        <item>TX Development Team</item>
+    </string-array>
+
+    <string name="title_activity_events_tabbed">EventsTabbedActivity</string>
+    <string name="title_activity_volunteer_login">Volunteer Login</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign In</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string-array name="BrainstormingNames">
+        <item>Contraception</item>
+        <item>Mr. Mechanix</item>
+        <item>Brain Boosters</item>
+        <item>Circuitrix</item>
+        <item>Algoholics</item>
+    </string-array>
+
+    <string-array name="BrainstormingImages">
+        <item>@drawable/contraption</item>
+        <item>@drawable/mechnix</item>
+        <item>@drawable/brainbooster</item>
+        <item>@drawable/circuitrix</item>
+        <item>@drawable/algoholics</item>
+    </string-array>
+
+    <string-array name="BrainstormingDescriptions">
+        <item>Everyone watches Tom and Jerry, in which Jerry throws a small ball and eventually a bomb blasts over Tom\'s head. Thus Jerry\'s mission is accomplished. Same concept applies here. You have to achieve the final result (as given in the problem statement) in the most fascinating and peculiar way possible.</item>
+        <item>For all those who want to see their ideas stand up tall! This event is a perfect blend of acknowledgement and analyzation of a concept. The event will mainly test your knowledge of the subjects namely SOM and applied mechanics. The final round will be based on model making.</item>
+        <item>Ready to rack your brains and take puzzles and tricky questions head-on? Brain Booster is the right platform for you. Explore the many realms of non-technical reasoning that is at the heart of all campus recruitments!</item>
+        <item>Flaunt your electronic skills Designing the circuits at your disposal. </item>
+        <item>Algoholics, as the name suggests, is an algorithm based event which tests your logical thinking rather than testing your coding abilities. The motto of the event is Think efficient, build efficient.</item>
+    </string-array>
+
+    <string-array name="BrainstormingRules">
+        <item>Max. No. Of Participants: 4\n\nRegistration Fees: Rs 200/- per team\n\nNo. of Rounds: 1</item>
+        <item>Max. No. Of Participants: 2\n\nRegistration Fees: Rs 120/-\n\nNo. of Rounds: 2</item>
+        <item>Max. No. Of Participants: 2\n\nRegistration Fees: Rs 100/-\n\nNo. of Rounds: 3</item>
+        <item>Max. No. Of Participants: 1 \/ 2\n\nRegistration Fees: Rs 100/- \n\nNo. of Rounds: 2</item>
+        <item>Max. No. Of Participants: 2\n\nRegistration Fees: Rs 150/-(single entry) Rs 200/-(team of 2)\n\nNo. of Rounds: 3</item>
+
+    </string-array>
+
+    <string-array name="BrainstormingContacts">
+        <item>Deepankar Ojha - 7028441905</item>
+        <item>Deepankar Ojha - 7028441905</item>
+        <item>Juilee Naik - 9665301046</item>
+        <item>Rahul Dholi - 7066882194</item>
+        <item>Pritam Kumar - 9923541024</item>
+    </string-array>
+
+
+    <string-array name="CodingNames">
+        <item>Codestorm</item>
+        <item>Code-Break</item>
+        <item>Relay Coding</item>
+        <item>Designer Pro</item>
+    </string-array>
+
+    <string-array name="CodingImages">
+        <item>@drawable/codestorm</item>
+        <item>@drawable/codebreak</item>
+        <item>@drawable/relaycode</item>
+        <item>@drawable/designerpro</item>
+    </string-array>
+
+    <string-array name="CodingDescriptions">
+        <item>For all the coders out there, TEXEPHYR brings Code storm. Write out the optimised and most efficient code to prove your coding prowess. This event will not only test your coding but also evaluate your debugging.</item>
+        <item>Let\'s find out who\'s the ultimate coder. To claim the title, coders will have to survive three rounds, that will check your coding abilities across various situations. These rounds are Djigksaw Puzzle, Qwearky Code and Blind Coding</item>
+        <item>Team up with your partner and write the code for a problem that we give you, just not together! Read and complete the code turn by turn when you get the chance to sit on the computer.</item>
+        <item>Hand drafting?! Nah! Here’s something more exciting. If you like working with a software for designing (modeling), this event is the right choice.</item>
+    </string-array>
+    <string-array name="CodingRules">
+        <item>Max. No. of Participants: 2\n\nRegistration fee: Rs.150/- (For single entry) Rs.200/-(team of two)\n\nNo. of rounds: 3 </item>
+        <item>Max. No. Of participants: 1\n\nNo. of Rounds: 3\n\nRegistration Fees: Rs.100/-</item>
+        <item>These are the rules for Djigsaws Puzzle</item>
+        <item>Max. No. Of Team members:1\n\nRegistration Fees: Rs 100/- (PRO-E/CREO)\n\nNo. of Rounds: 3 </item>
+    </string-array>
+
+    <string-array name="CodingContacts">
+
+        <item>Pritam Kumar - 9923541024</item>
+        <item>Juilee Naik - 9665301046</item>
+        <item>Juilee Naik - 9665301046</item>
+        <item>Deepankar Ojha - 7028441905</item>
+    </string-array>
+
+
+    <string-array name="NonTechNames">
+        <item>Need For Speed</item>
+        <item>Counter Strike</item>
+        <item>DOTA</item>
+        <item>FIFA</item>
+        <item>Blitz Chess</item>
+        <item>Rubik\'s Cube</item>
+        <item>Paparazzi</item>
+        <item>Mini Militia</item>
+        <item>Inquizzitive</item>
+        <item>Box Cricket</item>
+        <item>Box Soccer</item>
+    </string-array>
+
+    <string-array name="NonTechImages">
+        <item>@drawable/nfs</item>
+        <item>@drawable/counterstrike</item>
+        <item>@drawable/dota</item>
+        <item>@drawable/fifa</item>
+        <item>@drawable/blitz</item>
+        <item>@drawable/rubik</item>
+        <item>@drawable/axlo</item>
+        <item>@drawable/mini</item>
+        <item>@drawable/quiz</item>
+        <item>@drawable/cricket</item>
+        <item>@drawable/soccer</item>
+    </string-array>
+
+    <string-array name="NonTechDescriptions">
+        <item>Need for Speed, also known by its initials NFS, is a racing video game franchise published by Electronic Arts and developed by several studios including EA Black Box, Criterion Games and Ghost Games.</item>
+        <item>Counter-Strike (officially abbreviated as CS) is a series of multiplayer first-person shooter video games, in which teams of terrorists and counter-terrorists battle to, respectively, perpetrate an act of terror (bombing, hostage-taking) and prevent it (bomb defusal, hostage rescue).</item>
+        <item>Defense of the Ancients (DotA) is a multiplayer online battle arena(MOBA), the first of its kind. DOTA has over 12 million active monthly users.</item>
+        <item>FIFA, also known as FIFA Football or FIFA Soccer, is a series of association football video games or football simulator.</item>
+        <item>Try your hand at chess in this fun chess tournament! Compete with other players and win the most number of rounds to become the ultimate chess champion.</item>
+        <item>Rubik\'s Cube is a 3-D combination puzzle invented in 1974 by Hungarian sculptor and professor of architecture Ernő Rubik. Originally called the Magic Cube, the puzzle was licensed by Rubik to be sold by Ideal Toy Corp.</item>
+        <item>For all the pographers out there! This is a fun event where you can go around capturing moments.</item>
+        <item>Here\'s a chance to showcase your skills as a player in the ever so exciting game Mini Militia. Team up with 3 other players and compete on your mobile to beat the opponent teams on your way to glory!</item>
+        <item>If you are well updated with things and events happening around, roll in for this event and test your own reach!</item>
+        <item>A different version of the most loved game in our country. Make a team of 7 (5+2) and off you go!! And of course get a prize on winning!</item>
+        <item>Here’s a new way to play football! All you need is a team of 5(3+2) so join in and win prizes</item>
+    </string-array>
+
+    <string-array name="NonTechRules">
+        <item>PRIZE MONEY: Rs 2000/-</item>
+        <item>PRIZE MONEY: Rs 3000/-</item>
+        <item>PRIZE MONEY: Rs 3000/-</item>
+        <item>PRIZE MONEY: Rs 2000/-</item>
+        <item>Max. No. Of participants: 1\n\n
+No. of Rounds: 2\n\n
+Registration Fees: Rs.50 /-</item>
+        <item>Coming Soon</item>
+        <item>Max. No. Of Team Members:2\n\n
+Registration Fees:Rs 100/-</item>
+        <item>Teams of 4 players\n\n
+Max. No. Of participants: 4\n\n
+Registration Fees: Rs.150/- for team of 4.\n\n
+Rs.50/- for an individual\n\n
+No. of Rounds: Depending upon the no. of teams participating</item>
+        <item>Max. No. Of Team Members: 2\n\n
+Registration Fees:Rs 100/-\n\n
+No. of Rounds: 2</item>
+        <item>Max. No. Of Team Members:7\n\n
+Registration Fees:Rs300/-(5+2)\n\n
+No. of Rounds: Knock-out</item>
+        <item>Max. No. Of Team Members: 5\n\n
+Registration Fees: Rs 200/-(team of 3+2)\n\n
+No. of Rounds: Knock-out</item>
+    </string-array>
+
+    <string-array name="NonTechContacts">
+        <item>Rahul Dholi - 7066882194</item>
+        <item>Rahul Dholi - 7066882194</item>
+        <item>Rahul Dholi - 7066882194</item>
+        <item>Rahul Dholi - 7066882194</item>
+        <item>Juilee Naik - 9665301046</item>
+        <item>Pritam Kumar - 9923541024</item>
+        <item>Deepankar Ojha - 7028441905</item>
+        <item>Juilee Naik - 9665301046</item>
+        <item>Pritam Kumar - 9923541024</item>
+        <item>Rahul Dholi - 7066882194</item>
+        <item>Rahul Dholi - 7066882194</item>
+    </string-array>
+
+
+    <string-array name="RobotsNames">
+        <item>Robowars</item>
+        <item>Roborace</item>
+        <item>Rally Maina</item>
+        <item>Line Adepto</item>
+        <item>Drone Race</item>
+    </string-array>
+
+    <string-array name="RobotsImages">
+        <item>@drawable/robowars</item>
+        <item>@drawable/roborace1</item>
+        <item>@drawable/rallymania</item>
+        <item>@drawable/line_tracer</item>
+        <item>@drawable/droneracing</item>
+    </string-array>
+
+    <string-array name="RobotsDescriptions">
+        <item>Yes, An actual battle!! Just as cool as it sounds. Fight the other team’s bot with all the great techniques and be the champion.\n\n</item>
+        <item>The machine (bot) should navigate the track in minimum possible time by clearing all obstacles and checkpoints.\n\n</item>
+        <item>For all those who believe in setting the place on fire! Here’s a live experience of a racing tournament.</item>
+        <item>The objective of this contest is for a robot to follow a black line on a white background, without losing the line. The robot to complete the course in the shortest period of time while accurately tracking the course line from start to finish wins.</item>
+        <item>MIT Pune and IDRL have collaborated to bring you Maharashtra’s first league drone race at Texephyr 2017! Pilots from all over the nation will be arriving with custom built racing drones to fly as fast as they can in order to take the prizes home.</item>
+    </string-array>
+
+    <string-array name="RobotsRules">
+        <item>Max. No. Of participants: 5\n\nRegistration Fees:Rs 300/-\n\nNo. of Rounds: 2\n\nDate:17th and 18thFeb 2017</item>
+        <item>Max. No. Of participants: 3\n\nRegistration Fees: 250/- (50/- for extra member) \n\nNo. of Rounds: 3 \n\nDate:17th and 18thFeb 2017</item>
+        <item>Max. No. Of Participants: 5\n\nRegistration Fees: Rs 300/- per team (team with at least 2 SAE members)\n\nRs 350/- per team (team with Non SAE members)\n\nNo. of Rounds: 2 \n\nDate:17th and 18thFeb 2017</item>
+        <item>No. Of Participants in a team :2\n\nNo. of Rounds: 2\n\nPrize:\n\n5000 /-(Winner)\n\n3000/- Runner Up</item>
+        <item>Max. No. Of participants: 1\n\nRegistration Fees: None\n\nNo. of Rounds: As per number of pilots</item>
+    </string-array>
+
+    <string-array name="RobotsContacts">
+
+
+
+
+
+        <item>Deepankar Ojha - 7028441905</item>
+        <item>Rahul Dholi - 7066882194</item>
+        <item>Deepankar Ojha - 7028441905</item>
+        <item>Rahul Dholi - 7066882194</item>
+        <item>Rahul Dholi - 7066882194</item>
+
+    </string-array>
+
+
+    <string-array name="FunWithTechNames">
+        <item>Junkyard Wars</item>
+        <item>Google It</item>
+        <item>Hot Keys</item>
+        <item>Tech Roadies</item>
+    </string-array>
+
+    <string-array name="FunWithTechImages">
+        <item>@drawable/junkyards_wars</item>
+        <item>@drawable/googleit</item>
+        <item>@drawable/hotkeys</item>
+        <item>@drawable/roadies</item>
+    </string-array>
+
+    <string-array name="FunWithTechDescriptions">
+        <item>Do you know your PC? Find the right parts and assemble the PC in 30 minutes. Teamwork is everything to win this war. The competition is designed for students to display skills in PC assembly with great precision and speed. Students will demonstrate their ability to put together a PC from junk parts until it has started to successfully boot.</item>
+        <item>Think of Google as your best friend? Lets see if it helps you find the answers to the not-so-easy questions we give you!</item>
+        <item>Test your knowledge about Windows when we quiz you about the shortcuts and assign you a task to be completed without using the mouse.</item>
+        <item>Always wanted to experience how an interview feels like? Answer some personal and social questions and get a chance to sit for an interview to be judged based on your personality. Also, get the copy of your interview!</item>
+    </string-array>
+
+    <string-array name="FunWithTechRules">
+        <item>Max. No. of Participants: 2\n\n
+Registration Fees:Rs 150(single entry)\n\n
+No. of rounds: 2\n\n
+Rs.200 (team of two)</item>
+        <item>Max. No. of participants: 2\n\n
+Registration Fees: Rs.100 /-\n\n
+No. of Rounds: 2</item>
+        <item>Max. No. Of participants: 1\n\n
+Registration Fees: Rs.50 /-\n\n
+No. of Rounds: 3</item>
+        <item>Prize Money:
+Winner: Rs 4000/-
+Runner up: Rs 3000/-</item>
+    </string-array>
+
+    <string-array name="FunWithTechContacts">
+        <item>Pritam Kumar - 9923541024</item>
+        <item>Juilee Naik - 9665301046</item>
+        <item>Juilee Naik - 9665301046</item>
+        <item>Juilee Naik - 9665301046</item>
+    </string-array>
+
+
+    <string-array name="SportsNames">
+        <item>Djigsaws Puzzle</item>
+        <item>Relay Coding</item>
+        <item>Djigsaws Puzzle</item>
+        <item>Relay Coding</item>
+    </string-array>
+
+    <string-array name="SportsImages">
+        <item>@drawable/splash</item>
+        <item>@drawable/robotics</item>
+        <item>@drawable/splash</item>
+        <item>@drawable/robotics</item>
+    </string-array>
+
+    <string-array name="SportsDescriptions">
+        <item>This is the description for Djigsaws Puzzle</item>
+        <item>This is the description for Relay Coding</item>
+        <item>This is the description for Djigsaws Puzzle</item>
+        <item>This is the description for Relay Coding</item>
+    </string-array>
+
+    <string-array name="SportsRules">
+        <item>These are the rules for Djigsaws Puzzle</item>
+        <item>These are the rules for Relay Coding</item>
+        <item>These are the rules for Djigsaws Puzzle</item>
+        <item>These are the rules for Relay Coding</item>
+    </string-array>
+
+    <string-array name="SportsContacts">
+        <item>Saurabh - 9689281454</item>
+        <item>Nirav - 2344562345</item>
+        <item>Saurabh - 9689281454</item>
+        <item>Nirav - 2344562345</item>
+    </string-array>
+
+
+    <string-array name="WorkshopNames">
+        <item>Androledge</item>
+        <item>Paradigm Shift in Technology Landscape - An IOT Perspective</item>
+        <item>Vehicle Overhauling</item>
+        <item>3D-Printing</item>
+    </string-array>
+
+    <string-array name="WorkshopImages">
+        <item>@drawable/android</item>
+        <item>@drawable/cad</item>
+        <item>@drawable/vh</item>
+        <item>@drawable/threedee</item>
+    </string-array>
+
+
+
+    <string-array name="WorkshopRules">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="WorkshopDescriptions">
+        <item>With over one billion devices activated, Android is an exciting space to make apps to help you communicate, organize, educate, entertain or anything else you’re passionate about.\n\nIt\'s the largest installed base of any mobile platform and growing fast—every day another million users power up their Android devices for the first time and start looking for apps,games, and other digital content. Android gives you a world-class platform for creating apps and games for Android users everywhere, as well as an open marketplace for distributing to them instantly. This workshop Powered by GeeksLAB is focused to give the overview of Android and explore its building blocks.\n\nLearn to develop applications in the latest operating system with practical implementation and begin managing your own cool applications like a professional at this workshop. Attendees will be provided with instructions to build and manage new cool applications. What\'s more, you can even sell out these applications and earn good money!! </item>
+        <item>Coming Soon</item>
+        <item>This program is conceptualized to impart an industrial work flow to students, that how automobile components function, how vehicle is conceptualized, designed and manufactured. This program provides a platform to the students which supports their engineering thoughts to give them a pragmatic experience.</item>
+        <item>3D Printing is an Additive Manufacturing technique that creates a physical object from a virtual 3D CAD model by depositing successive layers of material. They work like the traditional inkjet printers, but instead of ink ,a 3D printer deposits desired material to manufacture an object .</item>
+    </string-array>
+    <string-array name="WorkshopContacts">
+
+
+        <item>Shubhansh Dubey - 9860240930</item>
+        <item>Piyush Nikhade- 9004663165</item>
+        <item>Deepankar Ojha - 7028441905</item>
+        <item>Pritam Kumar - 9923541024</item>
+    </string-array>
+</resources>
