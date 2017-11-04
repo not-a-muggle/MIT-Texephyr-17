@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_4ded03de61f49322deb0a186053c84ac81130004/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.1.0_4ded03de61f49322deb0a186053c84ac81130004.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vishesh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/pre-dexed/release/support-annotations-25.1.0_e36f7b034e82e690a06a5d28688b546cdd549cbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-25.1.0_383ff825aac1bb6f00777c892e1f58c63f860ac3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.1.0_383ff825aac1bb6f00777c892e1f58c63f860ac3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_1909de4ee5fe0c55422ce01a941f0dcbb31d5cdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.1.0_1909de4ee5fe0c55422ce01a941f0dcbb31d5cdc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_6e4bbe9089be3fdff7f1a08a5fbd2f4bbcda869b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishesh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_e36f7b034e82e690a06a5d28688b546cdd549cbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.1.0_6e4bbe9089be3fdff7f1a08a5fbd2f4bbcda869b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.1.0_8a9784152cac46382b1c6c19445b2c8c71ee18fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.1.0_c6ab7b1a4e5e9f5b0f5c0ced3da0e20e5eee8ec5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/pre-dexed/release/com.android.support-transition-25.1.0_8cd4431a659e6630a946720d652324f801965ff9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-25.1.0_f963c29f264b731c7772cfd2b7395193ee8ad49e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_d1287697a30b8bd9dce7814e0de8ce2bdcfe0d47/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.1.0_d1287697a30b8bd9dce7814e0de8ce2bdcfe0d47.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_f963c29f264b731c7772cfd2b7395193ee8ad49e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_8cd4431a659e6630a946720d652324f801965ff9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_c7851caff759663a006b3b440db6fa0ff43d62ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_28a5a3352f97100c328706e5c8393b5ff155289a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/pre-dexed/release/com.android.support-design-25.1.0_c7851caff759663a006b3b440db6fa0ff43d62ef.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.roughike/bottom-bar/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9dd08a0718f3c970caefd7c77f78726a50845655">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.roughike-bottom-bar-1.2.1_4a8852ef34c6f9f28114722f3dcd175236512b2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.1.0_28a5a3352f97100c328706e5c8393b5ff155289a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.roughike/bottom-bar/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9dd08a0718f3c970caefd7c77f78726a50845655">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/pre-dexed/release/com.roughike-bottom-bar-1.2.1_4a8852ef34c6f9f28114722f3dcd175236512b2d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8af8ff7e4d850fd774d7b0aa22e85edde845271f">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6c2945b66fe58ac7dc4f74ee56e5504c1400a6e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27c0e9140110c6f8b4897b1577e5f2955ed3c8ad">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_61ab13dc8c07df78130ce15f53e2effcb1b66a89/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.1.0_2882871956aca45970a3c0500c69ac11f9503136.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.1.0_66230bd7354ca2858d9cdebc81bf03e60621b115.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_66230bd7354ca2858d9cdebc81bf03e60621b115/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_2882871956aca45970a3c0500c69ac11f9503136/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_8a9784152cac46382b1c6c19445b2c8c71ee18fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/vishesh/Downloads/BottomNavigation-Master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_c6ab7b1a4e5e9f5b0f5c0ced3da0e20e5eee8ec5/classes.dex" />
+    </item>
+
+</items>
